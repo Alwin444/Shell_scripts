@@ -1,0 +1,5 @@
+This file is to write the list of domains of the website only
+Guide: Clear all the writings in this file before writing domain name.
+Guide:
+       usage: ./DNS_Exploder.sh file.txt
+              if not working type command chmod 755 DNS_Exploder.sh
