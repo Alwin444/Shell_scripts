@@ -2,3 +2,4 @@ To install from here, commands for unix systems are given below,
 1.) git clone file.sh
 2.) chmod 755 file.sh
 3.) ./file.sh
+Note some of the command structure changes.
