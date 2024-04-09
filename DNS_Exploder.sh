@@ -12,3 +12,4 @@ function looper
  done < "$1"
 }
 looper $1
+#Please use the file.txt with this script.
