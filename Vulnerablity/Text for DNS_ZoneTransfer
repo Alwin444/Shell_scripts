@@ -1,1 +1,5 @@
-
+Warning: This script is designed for educational purposes only. 
+Performing unauthorized zone transfers may violate the terms of service of the DNS servers involved and could be illegal in certain jurisdictions. 
+Use at your own risk.
+If you able to perform zone transfer in any domain please report it to the system administrator.
+This vulnerability is listed in  CVE-1999-0532.
