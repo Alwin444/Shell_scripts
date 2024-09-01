@@ -15,7 +15,7 @@ zone_transfer()
   echo "Could not perform Zone Transfer"
  else
   echo "--------------------------------"
-  $check
+  echo "$check"
  fi
 }
 
