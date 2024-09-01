@@ -15,7 +15,7 @@ zone_transfer()
   echo "Could not perform Zone Transfer"
  else
   echo "--------------------------------"
-  dig axfr $domain @$name_server +short
+  $check
  fi
 }
 
@@ -24,3 +24,6 @@ if [[ -z $domain ]]; then
 else
  zone_transfer
 fi
+
+#Risk level: 5/5
+#Reward level: 1/5
